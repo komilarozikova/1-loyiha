@@ -1,0 +1,13 @@
+.mainimg{
+    display: flex;
+    justify-content: center;
+}
+img{
+    height: 350px;
+    width: 400px;
+}
+.maintext{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
